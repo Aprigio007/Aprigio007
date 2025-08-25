@@ -1,6 +1,6 @@
 <h1>👋 Olá, eu sou Aprigio!</h1>
 
-Eu sou um estudante de 13 anos que adora programar. Atualmente, tenho habilidades em Python, HTML e CSS, mas estou sempre aprendendo coisas novas e me desafiando a melhorar minhas habilidades.
+Eu sou um estudante de 16 anos que adora programar. Atualmente, tenho habilidades em Python, HTML e CSS, mas estou sempre aprendendo coisas novas e me desafiando a melhorar minhas habilidades.
 
 ## 🔭 Atualmente estou trabalhando em...
 
